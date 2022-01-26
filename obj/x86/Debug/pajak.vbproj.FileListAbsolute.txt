@@ -1,0 +1,11 @@
+E:\Tugas fahri\semester 4\tugas vb.net 2010\pertemuan 2\BARU\pajak\pajak\bin\Debug\pajak.exe
+E:\Tugas fahri\semester 4\tugas vb.net 2010\pertemuan 2\BARU\pajak\pajak\bin\Debug\pajak.pdb
+E:\Tugas fahri\semester 4\tugas vb.net 2010\pertemuan 2\BARU\pajak\pajak\bin\Debug\pajak.xml
+E:\Tugas fahri\semester 4\tugas vb.net 2010\pertemuan 2\BARU\pajak\pajak\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Tugas fahri\semester 4\tugas vb.net 2010\pertemuan 2\BARU\pajak\pajak\obj\x86\Debug\pajak.Resources.resources
+E:\Tugas fahri\semester 4\tugas vb.net 2010\pertemuan 2\BARU\pajak\pajak\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Tugas fahri\semester 4\tugas vb.net 2010\pertemuan 2\BARU\pajak\pajak\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Tugas fahri\semester 4\tugas vb.net 2010\pertemuan 2\BARU\pajak\pajak\obj\x86\Debug\pajak.exe
+E:\Tugas fahri\semester 4\tugas vb.net 2010\pertemuan 2\BARU\pajak\pajak\obj\x86\Debug\pajak.xml
+E:\Tugas fahri\semester 4\tugas vb.net 2010\pertemuan 2\BARU\pajak\pajak\obj\x86\Debug\pajak.pdb
+E:\Tugas fahri\semester 4\tugas vb.net 2010\pertemuan 2\BARU\pajak\pajak\obj\x86\Debug\pajak.Form1.resources
